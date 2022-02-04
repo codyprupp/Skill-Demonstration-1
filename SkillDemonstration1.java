@@ -1,4 +1,7 @@
 public class SkillDemonstration1
 {
-  //TODO
+  public static int returnOne()
+  {
+    return 1;
+  }
 }
